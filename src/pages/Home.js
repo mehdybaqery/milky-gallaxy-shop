@@ -1,3 +1,4 @@
+//
 import { SimpleGrid, Container } from "@chakra-ui/react";
 import ProductCard from "../components/ProductCard";
 
